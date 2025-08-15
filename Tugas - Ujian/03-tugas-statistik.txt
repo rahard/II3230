@@ -1,0 +1,4 @@
+Buat program (dalam bahasa pemorgraman apapun) yang menghitung jumlah
+kemunculan dari huruf dalam (1) Bahasa Indonesia dan (2) Bahasa Jawa.
+Buat tabel top-5 huruf yang paling sering muncul.
+Sertakan listing dari program.
